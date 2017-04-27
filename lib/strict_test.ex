@@ -15,4 +15,8 @@ defmodule StrictTest do
   def hello do
     :world
   end
+
+  def insanely_long_function do
+    1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1
+  end
 end
